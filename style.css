@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(249, 240, 228);
+}
+
+.row {
+    width: 1100px;
+    height: 300px;
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: auto;
+}
+
+.marzertext {
+    text-align: center;
+    color: black;
+
+}
+.a {
+    color: red;
+    text-decoration: none;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height:200px;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 250px;
+    padding: 15px 0;
+}
+
+.marzkentron {
+    text-align: center;
+    color: grey;
+}
+
+.card:hover {
+    box-shadow: 0px 5px 8px 2px rgb(0 0 0 / 20%);
+    opacity: 0.7;
+}
