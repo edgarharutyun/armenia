@@ -80,6 +80,19 @@ header {
     display: flex;
 }
 .img{
-    width: 300px;
-    height: 300px;
+    width: 245px;
+    height: 180px;
+    border-radius: 10px;
+}
+.cardtext{
+    text-align: center;
+    color: rgb(60, 60, 60);
+    font-weight: 100;
+    margin-top: 10px;
+}
+.aboutcard{
+    border-radius: 10px;
+    width: 250px;
+    padding: 15px 0;
+    gap: 5px; 
 }
