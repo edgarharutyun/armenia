@@ -24,6 +24,7 @@ body {
     margin-top: 30px;
     margin-left: 400px;
 }
+
 .marzertext {
     text-align: center;
     color: black;
@@ -40,6 +41,7 @@ body {
     margin-right: auto;
     width: 200px;
     height: 200px;
+    border-radius: 10px;
 }
 
 .card {
@@ -87,32 +89,39 @@ header {
 .wrapper {
     display: flex;
 }
-.img{
+
+.img {
     width: 245px;
     height: 180px;
     border-radius: 10px;
-margin-left: 2.5px;
+    margin-left: 2.5px;
 }
-.cardtext{
+
+.cardtext {
     text-align: center;
     color: rgb(60, 60, 60);
     font-weight: 100;
     margin-top: 10px;
 }
-.aboutcard{
+
+.aboutcard {
     border-radius: 10px;
     width: 250px;
     padding: 15px 0;
     margin-left: 25px;
 }
+
 .aboutcard:hover {
     box-shadow: 0px 5px 8px 2px rgb(0 0 0 / 20%);
     opacity: 0.7;
 }
-.h1{
- 
-}
-.info-text{
-margin-left: 50px;
 
+.info-text {
+    margin-left: 50px;
+    
+}
+
+.coloumn2 {
+    margin-left: 1050px;
+    margin-bottom: 500px;
 }
