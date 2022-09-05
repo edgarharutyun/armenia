@@ -94,7 +94,7 @@ header {
     width: 260px;
     height: 180px;
     border-radius: 10px;
-    margin-left: 2.5px;
+    margin-left: 20px;
 }
 
 .cardtext {
@@ -106,14 +106,14 @@ header {
 
 .aboutcard {
     border-radius: 10px;
-    width: 250px;
+    width: 300px;
     padding: 15px 0;
     margin-left: 25px;
 }
 
 .aboutcard:hover {
-    box-shadow: 0px 5px 8px 2px rgb(0 0 0 / 20%);
-    opacity: 0.7;
+    box-shadow: 0px 3px 5px 2px rgb(0 0 0 / 10%);
+    opacity: 0.85;
 }
 
 .info-text {
@@ -127,4 +127,10 @@ header {
 .h1{
     margin-left: 200px;
     margin-top: 30px;
+}
+.imggarni{
+    width: 240px;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 30px;
 }
